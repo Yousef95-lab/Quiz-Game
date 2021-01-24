@@ -1,0 +1,140 @@
+#start_quiz {
+    
+    position: absolute;
+    top: 55%;
+    left: 47%;
+}
+
+#question1.activeInfo{
+    opacity: 1;
+    background-color:white;
+    pointer-events: auto;
+}
+
+#question2.activeInfo{
+    opacity: 1;
+    background-color:white;
+    pointer-events: auto;
+}
+
+#question3.activeInfo{
+    opacity: 1;
+    background-color:white;
+    pointer-events: auto;
+}
+
+#question4.activeInfo{
+    opacity: 1;
+    background-color:white;
+    pointer-events: auto;
+}
+
+#question5.activeInfo{
+    opacity: 1;
+    background-color:white;
+    pointer-events: auto;
+}
+
+#done.activeInfo{
+    opacity: 1;
+    background-color:white;
+    pointer-events: auto;
+}
+
+#highScore.activeInfo{
+    opacity: 1;
+    background-color:white;
+    pointer-events: auto;
+}
+
+
+#instruction_box {
+    
+    pointer-events: none;
+    position:absolute;
+    top:42%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    padding:10px;
+    margin-top: 10px;
+}
+
+
+
+.title {
+    display: none;
+    position: absolute;
+    top: 30%;
+    left: 42%;
+}
+
+#question1 {
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    width: 500px;
+    top:35%;
+    left:35%;
+}
+
+#question2 {
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    width: 500px;
+    top:35%;
+    left:35%;
+}
+
+#question3 {
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    height: 550px;
+    width: 500px;
+    top:35%;
+    left:35%;
+}
+
+#question4 {
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    width: 500px;
+    top:35%;
+    left:35%;
+}
+
+#question5 {
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    width: 500px;
+    top:35%;
+    left:35%;
+}
+
+#done {
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    height: 600px;
+    width: 500px;
+    top:35%;
+    left:35%;
+}
+
+#highScore {
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+    height: 600px;
+    width: 500px;
+    top:35%;
+    left:35%;
+}
+
+
+
+
